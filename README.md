@@ -18,6 +18,7 @@ In this project, we'll be visualizing the gender gap of graduates based on their
 
 ###########################
 ### Project: Visualizing Earnings by College Majors
+- *Link to Github Repository: https://github.com/GamingF0Sho/visualizing-earnings-by-college-majors.git*
 **We will be exploring:**
 - Do students in more popular majors make more money?
   - Using scatter plots
@@ -25,7 +26,7 @@ In this project, we'll be visualizing the gender gap of graduates based on their
   - Using histograms
 - Which category of majors have the most students?
   - Using bar plots
-- *Link to Github Repository: https://github.com/GamingF0Sho/visualizing-earnings-by-college-majors.git*
+
 
 ###########################
 ### Project: Star Wars Survey Data Visualization
@@ -42,12 +43,22 @@ A data cleaning project due to the fact that we had insufficient accurate data t
 In this project, we'll be analyzing data on Thanksgiving dinner in the US. https://www.fivethirtyeight.com/ provided the dataset, and can be found here: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
 - *Link to Github Repository: https://github.com/GamingF0Sho/fun-w-thanksgiving-dinner-data.git*
 
-- *Link to Github Repository: *
+###########################
+### Project: Transforming Data from Hacker News
+In this project, we'll be working with Hacker News (http://news.ycombinator.com/) from 2006 to 2015. At Hacker News, users submit articles about technology, startups, etc., and others can "upvote" the articles, if they like them. The dataset was compiled by Arnaud Drizard using the Hacker News API, and can be found here: https://github.com/arnauddri/hn
+- *Link to Github Repository: https://github.com/GamingF0Sho/transforming-data-w-python-and-command-line.git*
+**We will write scripts to answer the following:**
+- What words appear most often in headlines?
+- What domains were submitted most often?
+- At what time of day are most articles submitted?
 
-- *Link to Github Repository: *
+###########################
+### Project: Preparing Academy Awards Data for SQLite
+We'll work with data on Academy Award nominations, which can be downloaded here: https://www.aggdata.com/awards/oscar. We will be using Python and Jupyter Notebook to clean the data and then export to an SQLite Database.
+- *Link to Github Repository: https://github.com/GamingF0Sho/preparing-academy-awards-data-for-sqlite.git*
 
-- *Link to Github Repository: *
+###########################
+### Project: Analyzing NYC High School Data
+Work in Progress
+- *Link to Github Repository: https://github.com/GamingF0Sho/analyzing-nyc-high-school-data.git*
 
-- *Link to Github Repository: *
-
-- *Link to Github Repository: *
