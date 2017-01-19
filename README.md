@@ -12,6 +12,7 @@ In this project, we'll be analyzing data on gun deaths in the US, and trying to 
 - *Link to Github Repository: https://github.com/GamingF0Sho/analyzing-us-gun-deaths.git*
 
 ###########################
+###########################
 ### Project: Visualizing the Gender Gap of College Degrees
 In this project, we'll be visualizing the gender gap of graduates based on their college degree. We will be using Python, Jupyter Notebook, and the matplotlib.pyplot library.
 - *Link to Github Repository: https://github.com/GamingF0Sho/visualizing-college-degrees-gender-gap.git*
