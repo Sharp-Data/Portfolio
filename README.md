@@ -37,6 +37,12 @@ In this project we will be creating visualizations of Star Wars Survey Data.
 
 
 ###########################
+## Project: Web Scraping
+##### *Link to Github Repository: https://github.com/GamingF0Sho/Web-Scraping.git*
+In this project we will scrape phone numbers off of a list of URLs and join them with a csv file.
+
+
+###########################
 ## Project: Predicting Future Revenue - StandDesk B2B Customers
 ##### *Link to Github Repository: https://github.com/GamingF0Sho/Predicting-Future-Revenue.git*
 A data cleaning project due to the fact that we had insufficient accurate data to make predictions.
