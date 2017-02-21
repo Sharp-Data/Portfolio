@@ -7,6 +7,12 @@ In late 2010, my online poker career began in earnest...
 
 
 ###########################
+## Project: Analyzing Movie Reviews
+##### *Link to Github Repository: https://github.com/Sharp-Data/Analyzing-Movie-Reviews.git*
+In 2015, Fivethirtyeight wrote an article regarding bias in movie ratings from online movie review sites, which can be found here: https://fivethirtyeight.com/features/fandango-movies-ratings/ In this project we will be comparing the ratings of http://www.fandango.com/ vs. http://www.metacritic.com/. 
+
+
+###########################
 ## Project: Exploring Gun Deaths In The US
 ##### *Link to Github Repository: https://github.com/GamingF0Sho/analyzing-us-gun-deaths.git*
 In this project, we'll be analyzing data on gun deaths in the US, and trying to find patterns in the demographics of the victims.
