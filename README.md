@@ -7,6 +7,12 @@ In late 2010, my online poker career began in earnest...
 
 
 ###########################
+## Project: Predicting Bike Rentals
+##### *Link to Github Repository: https://github.com/Sharp-Data/Predicting-Bike-Rentals.git*
+In cities accross the US, bike sharing programs are becoming increasingly popular. Anyone cant rent a bike by the hour or by the day from any of the communal bike sharing stations. Washington D.C. has one of these programs.  We will be trying to predict the bike rental count for a one hour time period.
+
+
+###########################
 ## Project: Analyzing Movie Reviews
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Analyzing-Movie-Reviews.git*
 In 2015, Fivethirtyeight wrote an article regarding bias in movie ratings from online movie review sites, which can be found here: https://fivethirtyeight.com/features/fandango-movies-ratings/ In this project we will be comparing the ratings of http://www.fandango.com/ vs. http://www.metacritic.com/. 
