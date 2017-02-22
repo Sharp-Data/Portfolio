@@ -9,7 +9,7 @@ In late 2010, my online poker career began in earnest...
 ###########################
 ## Project: Predicting Bike Rentals
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Predicting-Bike-Rentals.git*
-In cities accross the US, bike sharing programs are becoming increasingly popular. Anyone cant rent a bike by the hour or by the day from any of the communal bike sharing stations. Washington D.C. has one of these programs.  We will be trying to predict the bike rental count for a one hour time period.
+In cities accross the US, bike sharing programs are becoming increasingly popular. Anyone cant rent a bike by the hour or by the day from any of the communal bike sharing stations. Washington D.C. has one of these programs.  We will be trying to predict the bike rental count for one hour time periods.
 
 
 ###########################
