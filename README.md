@@ -13,6 +13,16 @@ In cities accross the US, bike sharing programs are becoming increasingly popula
 
 
 ###########################
+## Project: Predicting the Stock Market
+##### *Link to Github Repository: https://github.com/Sharp-Data/Predicting-the-Stock-Market.git
+The S&P500 index aggregates the stock prices of 500 large companies.  Every day investors make (or lose) money by
+trading Exchange Traded Funds, which allow you to buy and sell indexes like they were stocks.  Creating a predictive
+model to predict the S&P500 could allow traders to make money from their investments.
+
+**Trading stocks is a risky endeavor.  Nothing in this project constitutes stock trading advice!**
+
+
+###########################
 ## Project: Analyzing Movie Reviews
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Analyzing-Movie-Reviews.git*
 In 2015, Fivethirtyeight wrote an article regarding bias in movie ratings from online movie review sites, which can be found here: https://fivethirtyeight.com/features/fandango-movies-ratings/ In this project we will be comparing the ratings of http://www.fandango.com/ vs. http://www.metacritic.com/. 
