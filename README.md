@@ -21,6 +21,6 @@ model to predict the S&P500 could allow traders to make money from their investm
 ##### *Link to Blog Post: http://www.sharpdata.co/online-poker-pro-to-data-science-jedi-master/*
 In late 2010, my online poker career began in earnest...
 
-
-### *Additional Projects: https://github.com/Sharp-Data/Portfolio/blob/master/PORTFOLIO.md*
+################################################################
+#### *Additional Projects: https://github.com/Sharp-Data/Portfolio/blob/master/PORTFOLIO.md*
 
