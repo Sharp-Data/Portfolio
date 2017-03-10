@@ -19,7 +19,7 @@ model to predict the S&P500 could allow traders to make money from their investm
 ################################################################
 ## Blog Post: Online Poker Pro 2 Data Science Jedi Master
 ##### *Link to Blog Post: http://www.sharpdata.co/online-poker-pro-to-data-science-jedi-master/*
-In late 2010, my online poker career began in earnest...
+Online poker is a game where you can utilize data and statistics to consistently predict profitable betting opportunities.  In late 2010, I became so adept at online poker that I began making a living out of it while living on the beach in Baja California, Mexico.  Follow the link above to see how my journey to a data driven mindset began.
 
 
 ###########################
