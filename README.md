@@ -1,6 +1,7 @@
 # Portfolio
 
 ################################################################
+################################################################
 ## Project: Scikit-Learn Tutorial: Predictive Analytics with Python
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Scikit-Learn-Tutorial
 In this tutorial, you'll see how you can easily load in data from a database with sqlite3, how you can explore your data and improve its data quality with pandas and matplotlib, and how you can then use the Scikit-Learn package to extract some valid insights out of your data.
@@ -16,7 +17,7 @@ In this project, you’ll test out several machine learning models from sklearn 
 In this project, you'll see how to use classification models to predict which players make it into the MLB Hall of Fame.
 
 
-
+################################################################
 ################################################################
 ## Project: Predicting Bike Rentals
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Predicting-Bike-Rentals.git*
@@ -31,7 +32,7 @@ We will be trying to predict the bike rental count for one hour time periods usi
 #### Results
 We were able to reduce our error metric (mean squared error) from ~17,054 with a linear regression model to ~2,149 with Random Forest.
 
-
+################################################################
 ################################################################
 ## Project: Predicting the Stock Market
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Predicting-the-Stock-Market.git
@@ -41,12 +42,13 @@ model to predict the S&P500 could allow traders to make money from their investm
 
 **Trading stocks is a risky endeavor.  Nothing in this project constitutes stock trading advice!**
 
-
+################################################################
 ################################################################
 ## Blog Post: Online Poker Pro 2 Data Science Jedi Master
 ##### *Link to Blog Post: http://www.sharpdata.co/online-poker-pro-to-data-science-jedi-master/*
 Online poker is a game where you can utilize data and statistics to consistently predict profitable betting opportunities.  In late 2010, I became so adept at online poker that I began making a living out of it while living on the beach in Baja California, Mexico.  Follow the link above to see how my journey to a data driven mindset began.
 
+################################################################
 ################################################################
 #### *Additional Projects: https://github.com/Sharp-Data/Portfolio/blob/master/PORTFOLIO.md*
 
