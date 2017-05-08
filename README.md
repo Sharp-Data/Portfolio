@@ -6,12 +6,14 @@
 ##### *Link to Github Repository: https://github.com/Sharp-Data/Scikit-Learn-Tutorial
 In this tutorial, you'll see how you can easily load in data from a database with sqlite3, how you can explore your data and improve its data quality with pandas and matplotlib, and how you can then use the Scikit-Learn package to extract some valid insights out of your data.
 
-### Part 1: Predicting MLB Team Wins per Season
+### [Part 1: Predicting MLB Team Wins per Season](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1#gs.Q_Ix2n8)
 In this project, you’ll test out several machine learning models from sklearn to predict the number of games that a Major-League Baseball team won that season, based on the teams statistics and other variables from that season.  The following scikit-learn models are featured in this project:
 
 - K-means clustor
 - Linear Regression
 - Ridge Regression
+
+#### Link to Blog Post: https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1#gs.Q_Ix2n8
 
 ### Part II: Predicting Hall of Fame Careers
 In this project, you'll see how to use classification models to predict which players make it into the MLB Hall of Fame.
