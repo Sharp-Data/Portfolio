@@ -2,8 +2,8 @@
 
 ######################################
 ######################################
-## Project: Scikit-Learn Tutorial: Predictive Analytics with Python
-##### *Link to Github Repository: https://github.com/Sharp-Data/Scikit-Learn-Tutorial
+## Scikit-Learn Tutorial: Predictive Analytics with Python
+##### *Link to Github Repository: https://github.com/Sharp-Data/Scikit-Learn-Tutorial*
 In this tutorial, you'll see how you can easily load in data from a database with sqlite3, how you can explore your data and improve its data quality with pandas and matplotlib, and how you can then use the Scikit-Learn package to extract some valid insights out of your data.
 
 ### [Part 1: Predicting MLB Team Wins per Season](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)
