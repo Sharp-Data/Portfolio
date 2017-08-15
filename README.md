@@ -57,7 +57,7 @@ model to predict the S&P500 could allow traders to make money from their investm
 ######################################
 ## Blog Posts: Data-Science-Poker-Projects
 ##### *Link to Blog Post: https://medium.springboard.com/how-i-used-professional-poker-to-become-a-data-scientist-e49b75dfe8e3*
-##### *Link to Github Repository: https://github.com/Sharp-Data/Data-Science-Poker-Projects
+##### *Link to Github Repository: https://github.com/Sharp-Data/Data-Science-Poker-Projects*
 April 15th, 2011, is referred to as Black Friday in the poker community. It’s the day that the United States Government shut down the top three online poker sites. About 4,000 US citizens played online poker professionally back then, and thus the exodus began. Canada and Costa Rica were popular destinations. I’m from Southern California, so I’m no stranger to Baja California. I decided to set up shop south of the border in a town called Rosarito, Mexico...
 
 ######################################
